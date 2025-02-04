@@ -173,3 +173,6 @@ footer .wrapper {
     display: flex;
     justify-content: space-between;
 }
+.container-transport-invisible {
+    display: none;
+}
